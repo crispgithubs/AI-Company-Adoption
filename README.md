@@ -34,3 +34,9 @@ This strategic tableau dashboard analyzes global enterprise AI adoption trends, 
    # Governance, Risk and Trust Benchmarks
     * The Governance Gap-A critical findings is the emergence of Risk Cells in countries like Nigeria, Egypt, and India in these areas, the AI Adoption Rate is extremely high, but the Regulatory Compliance Score ( Avg 70.23) is not yet strong enough to support that speed.
     * Trust as a KPI-While we pursue growth we monitor Avg Customer Satisfaction (5.415) as our safety anchor maintaining this score is essential to ensure that AI automation does not degrade the user experience
+  
+
+   erDiagram
+        AI_PERFORMANCE  ||--
+   o{ COMPANIES : " Links to"
+   
