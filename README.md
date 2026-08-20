@@ -36,5 +36,5 @@ This strategic tableau dashboard analyzes global enterprise AI adoption trends, 
     * Trust as a KPI-While we pursue growth we monitor Avg Customer Satisfaction (5.415) as our safety anchor maintaining this score is essential to ensure that AI automation does not degrade the user experience
   
 
-![image alt](https://github.com/crispgithubs/AI-Company-Adoption/commit/762990867d21318e55ec4dde144ef842f1e56a61)
+![image alt](https://github.com/crispgithubs/AI-Company-Adoption/blob/40d1b50403d937d5b02538d7643dc2f8b01d3156/Dataset%20structure%20and%20ERD.png)
    
