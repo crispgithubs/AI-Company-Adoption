@@ -25,7 +25,6 @@ This strategic tableau dashboard analyzes global enterprise AI adoption trends, 
 
   #revenue Growth and Peak Performance
   * The Early Adopter Advantage- Our analysis identifies a strong correlation between high AI Maturity (0.4) and top line financial success. The Avg Revenue Growth % is 4.568% with high maturity organizations consistently outperforming the baseline.
-  * Budget Efficiency- Companies are currently allocating 9.376% of their total budget to AI initiatives, prioritizing investment in sectors like Technology and Manufacturing to drive this growth.
 
 # Maturity Trends and Regional Insights
  * The Global Shifts- From 2022 to 2026, we observe a steady progression across all regions (Asia,Europe,North America etc) from initial adoption to advanced maturity.
@@ -41,5 +40,14 @@ This strategic tableau dashboard analyzes global enterprise AI adoption trends, 
                                                                      # Insight deep-Dive
                                                                  The Global Journey to AI maturity
 ![image alt](https://github.com/crispgithubs/AI-Company-Adoption/blob/d5f91cb8e93ada944f1851a44d0ab7b90f24acce/Adoption%20Maturity%20Trends%20by%20Industry%20and%20Region.png)
+
+* Steady Growth Trend:                                  * The 2024 Inflection Point
+  Data shows a consistent upward                          The data indicates that 2024
+  shift in AI maturity in 2022,                           was a critical year where many
+  the majority of enterprises were                        organization moved from "Exper-
+  at the 0.1 "Foundational" stage                         imental (0.2) to integrated (0.3)
+  By 2026 the global average has                          status marking a significant shift
+  progressed toward he 0.4 "Advanced                      in global AI maturity
+  frontier"
    
    
