@@ -42,10 +42,11 @@ This strategic tableau dashboard analyzes global enterprise AI adoption trends, 
                                                                  The Global Journey to AI maturity
    <p align="centre">
       <img
-   src="https://github.com/crispg
+   src="https://raw.githubusercontent.
    company-
-   Adoption/blob/f9c660d94a21f64c
-   raw=true" width="600">
+   Adoption/
+   f9c660d94a21f64c297bf
+   width="600">
    </p>
    
    
