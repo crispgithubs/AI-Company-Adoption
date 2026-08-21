@@ -38,16 +38,13 @@ This strategic tableau dashboard analyzes global enterprise AI adoption trends, 
 ![image alt](https://github.com/crispgithubs/AI-Company-Adoption/blob/40d1b50403d937d5b02538d7643dc2f8b01d3156/Dataset%20structure%20and%20ERD.png)
 
                                                                      # Insight deep-Dive
+                                                                     
                                                                  The Global Journey to AI maturity
 ![image alt](https://github.com/crispgithubs/AI-Company-Adoption/blob/d5f91cb8e93ada944f1851a44d0ab7b90f24acce/Adoption%20Maturity%20Trends%20by%20Industry%20and%20Region.png)
 
-* Steady Growth Trend:                                  * The 2024 Inflection Point
-  Data shows a consistent upward                          The data indicates that 2024
-  shift in AI maturity in 2022,                           was a critical year where many
-  the majority of enterprises were                        organization moved from "Exper-
-  at the 0.1 "Foundational" stage                         imental (0.2) to integrated (0.3)
-  By 2026 the global average has                          status marking a significant shift
-  progressed toward he 0.4 "Advanced                      in global AI maturity
-  frontier"
+* Steady Growth Trend: Data shows a consistent upward shift in AI maturity in 2022,the majority of enterprises were at the 0.1 "Foundational" stage  By 2026 the global average has progressed toward he 0.4 "Advanced frontier"
+* The 2024 Inflection Point: The data indicates that 2024 was a critical year where many organization moved from "Experimental (0.2) ti ontegrated (0.3) status marking a significant shift in global AI maturity
+
+
    
    
