@@ -37,4 +37,8 @@ This strategic tableau dashboard analyzes global enterprise AI adoption trends, 
   
 
 ![image alt](https://github.com/crispgithubs/AI-Company-Adoption/blob/40d1b50403d937d5b02538d7643dc2f8b01d3156/Dataset%20structure%20and%20ERD.png)
+
+                                                                     # Insight deep-Dive
+                                                                 The Global Journey to AI maturity
+                                                                 
    
