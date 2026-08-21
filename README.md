@@ -41,7 +41,7 @@ This strategic tableau dashboard analyzes global enterprise AI adoption trends, 
                                                                      # Insight deep-Dive
                                                                  The Global Journey to AI maturity
   <p align="center">
-  <img src=".png"
+  <img src="https://github.com/crispgithubs/AI-Company-Adoption/blob/d5f91cb8e93ada944f1851a44d0ab7b90f24acce/Adoption%20Maturity%20Trends%20by%20Industry%20and%20Region.png.png"
   width="600">
   </p>
    
