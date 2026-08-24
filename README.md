@@ -51,7 +51,9 @@ Industry-Specific Benchmarks
 ![image alt](https://github.com/crispgithubs/AI-Company-Adoption/blob/929d6ab5b5fbc40331d0b1426a744b421bbfc8b0/screenshot%20early%20adopter.png)
 Direct Correlation Between Maturity and Revenue (0.4 Benchmark)
 * The Early Adopter Alpha: Organizations that successfully transitioned to the 0.4 AI Maturity level by 2026 are the primary drivers of the 4.568% Avg Revenue Growth.
-* The Experimental Plateau: Conversely companies lingering in the 0.1 to 0.2 maturity range (Experimental stage) have seen stagnant growth. representing a "Growth Trap" where AI costs exist but revenue benefits haven't materialized  
+* The Experimental Plateau: Conversely companies lingering in the 0.1 to 0.2 maturity range (Experimental stage) have seen stagnant growth. representing a "Growth Trap" where AI costs exist but revenue benefits haven't materialized
+
+![image alt](https://github.com/crispgithubs/AI-Company-Adoption/blob/8a5c0642d96af8adcddb46fcc073ed66a5138cc2/screenshot%20governance%20risk%20matrix.png)
 
 
    
