@@ -45,7 +45,7 @@ This strategic tableau dashboard analyzes global enterprise AI adoption trends, 
 * Steady Growth Trend: Data shows a consistent upward shift in AI maturity in 2022,the majority of enterprises were at the 0.1 "Foundational" stage  By 2026 the global average has progressed toward he 0.4 "Advanced frontier"
 * The 2024 Inflection Point: The data indicates that 2024 was a critical year where many organization moved from "Experimental (0.2) ti ontegrated (0.3) status marking a significant shift in global AI maturity
 
-![image alt](https://github.com/crispgithubs/AI-Company-Adoption/blob/a3beea3a62baf032c252cce42f8af6efa9b9cdfd/Early%20Adopter%20Advantage%20by%20Industry%20and%20Size.png)
+![image alt](https://github.com/crispgithubs/AI-Company-Adoption/blob/929d6ab5b5fbc40331d0b1426a744b421bbfc8b0/screenshot%20early%20adopter.png)
 
 
    
