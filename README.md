@@ -36,7 +36,7 @@
   * Trust as a KPI-While we pursue growth we monitor Avg Customer Satisfaction (5.415) as our safety anchor maintaining this score is essential to ensure that AI automation does not degrade the user experience
   
 
-![image alt](https://github.com/crispgithubs/AI-Company-Adoption/blob/7543f7947c7fe76fec266a2ae19e0b6467b80f87/Add%20a%20heading%20(1).png)
+![image alt](https://github.com/crispgithubs/AI-Company-Adoption/blob/c315c678bb520d3dbe031940f5515c8f7d670595/Add%20a%20heading%20(1).png)
 
                                                                # Insight deep-Dive
                                                                      
