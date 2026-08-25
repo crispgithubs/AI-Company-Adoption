@@ -1,6 +1,6 @@
 # AI-Company-Adoption
 
-!image
+![image alt](https://github.com/crispgithubs/AI-Company-Adoption/blob/1311ea4a11abdb53d42d1ef303f7d1d691924a7e/ai%20adoption%20maturity%20png.zip)
 This strategic tableau dashboard analyzes global enterprise AI adoption trends, financial ROI, and regulatory risks across diverse industries and region. it correlates AI maturity and investment with business outcomes like revenue growth and operational efficiency to provide actionable benchmarking for digital transformation.
 
 ##Clients background
