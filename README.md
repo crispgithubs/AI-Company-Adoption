@@ -22,6 +22,7 @@
                                                            # Executive Summary
 
                                                AI Adoption and Maturity Analysis (2022-2026)
+  ![image alt](https://github.com/crispgithubs/AI-Company-Adoption/blob/9d87f49705aa6884f2cbabb07fa7286fd53c42a4/screenshot%20Adoption.png)
   
 
 
