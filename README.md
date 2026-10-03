@@ -19,7 +19,7 @@
 * Governance & Trust Standards- Focusing on key metrics of Avg Regulatory Compliance Score (70.23), Avg AI Risk Management Score, and Avg Customer Satisfaction (5.415).
 
 
-                                                           # Executive Summary
+                                                       ** # Executive Summary**
 
                                                AI Adoption and Maturity Analysis (2022-2026)
   ![image alt](https://github.com/crispgithubs/AI-Company-Adoption/blob/9d87f49705aa6884f2cbabb07fa7286fd53c42a4/screenshot%20Adoption.png)
